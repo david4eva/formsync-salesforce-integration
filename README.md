@@ -3,13 +3,13 @@
 **FormSync** is a custom feedback automation solution that connects Salesforce with Google Forms via Google Apps Script. It enables organizations to send automated survey links to customers when cases are resolved — and seamlessly saves survey responses in Salesforce.
 <img width="1920" height="1080" alt="FormSync Project (1)" src="https://github.com/user-attachments/assets/cc6f0345-45bb-47f2-a697-5aefce2149c4" />
 
---- 
+---
 
 ## 💡 What It Does
 
 - ❌ Replaces expensive tools like FormAssembly, Jotform, and other paid form builders  
 - ✅ 100% customizable with **no ongoing license fees**  
-- ⚙️ Built using Apex, Flow, and Google Apps Script.
+- ⚙️ Built using Apex, Flow, and a JavaScript-based middleware developed in TypeScript and transpiled to JavaScript using clasp.
 - 🧠 Uses **OpenAI (via Agentforce)** and the **Einstein Trust Layer** to summarize case details securely before emailing customers
 
 ---
@@ -23,7 +23,7 @@ When a Salesforce Case is marked as **Resolved**:
    - Sensitive data is **filtered through the Einstein Trust Layer** before sending  
    - A summarized version of the case is generated and saved on the Case record  
 3. An email is sent to the customer with a **Google Form survey link**  
-4. The customer fills out the form  
+4. The customer fills out the form
 5. A **Google Apps Script middleware** captures the form submission and sends it to a Salesforce **REST service**  
 6. Salesforce parses the JSON payload and stores the responses in a **custom object (`Survey_Form__c`)**
 
@@ -42,7 +42,7 @@ When a Salesforce Case is marked as **Resolved**:
 
 #### Google
 - Google Forms (survey UI)
-- Google Apps Script (Javascript middleware POST to Salesforce)
+- Google Apps Script (Typescript middleware POST to Salesforce)
 - No paid tool required
 
 #### External AI
@@ -64,7 +64,7 @@ When a Salesforce Case is marked as **Resolved**:
 
 ### In Salesforce
 - Create a custom object `Survey_Form__c` to store form data  
-- Create flow to trigger on Case status = Resolved  
+- Create flow to trigger on Case status = Resolved 
 - Add fields: `Survey_Link__c`, `Case_Summary__c`, `Form_Questions_JSON__c`, etc.  
 - Install/configure Agentforce for AI summarization  
 - Secure Named Credential for the OpenAI endpoint  
