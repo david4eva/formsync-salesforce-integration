@@ -1,7 +1,7 @@
 # 📄 FormSync — Smart Feedback Automation for Salesforce
 
 **FormSync** is a custom feedback automation solution that connects Salesforce with Google Forms via Google Apps Script. It enables organizations to send automated survey links to customers when cases are resolved — and seamlessly saves survey responses in Salesforce.
-<img width="1920" height="1080" alt="FormSync Project (1)" src="https://github.com/user-attachments/assets/cc6f0345-45bb-47f2-a697-5aefce2149c4" />
+![FormSync Project](https://github.com/user-attachments/assets/bc21e9bf-50f2-400d-940c-6238c0c06878)
 
 ---
 
