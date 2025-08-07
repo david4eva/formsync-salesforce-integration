@@ -219,7 +219,7 @@ MuleSoft handles complex API integrations gracefully but is often **cost-prohibi
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
 **Commercial Use**: Freely allowed under MIT license terms.
 
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by [David Elias](https://github.com/davidselias)**
+**Built with ❤️ by [David Elias]([https://github.com/davidselias](https://github.com/david4eva))**
 
 *Transforming customer feedback collection, one survey at a time.*
 
