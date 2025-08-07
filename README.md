@@ -8,10 +8,6 @@
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-enabled-4285F4.svg?logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?logo=openai&logoColor=white)](https://platform.openai.com/docs/api-reference/completions)
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-
 </div>
 
 ---
