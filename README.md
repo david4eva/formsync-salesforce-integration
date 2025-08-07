@@ -5,7 +5,6 @@
 <!-- Essential Badges Only -->
 <div align="left">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Salesforce API](https://img.shields.io/badge/Salesforce%20API-v58.0-00A1E0.svg?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_rest.htm)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-enabled-4285F4.svg?logo=google&logoColor=white)](https://developers.google.com/apps-script)
