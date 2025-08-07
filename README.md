@@ -2,10 +2,6 @@
 
 **FormSync** is an enterprise-grade feedback automation solution that intelligently connects Salesforce with Google Forms using AI-powered case summarization. When cases are resolved, it automatically sends personalized survey links to customers and seamlessly stores responses back in Salesforce — **completely free and fully customizable**.
 
-![FormSync Demo](https://github.com/user-attachments/assets/bc21e9bf-50f2-400d-940c-6238c0c06878)
-
-## 🎯 [**→ View Live Demo**](https://formsync-demo.vercel.app) | [**→ API Documentation**](https://documenter.getpostman.com/view/your-collection)
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Salesforce API](https://img.shields.io/badge/Salesforce%20API-v58.0-00A1E0.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg?logo=typescript&logoColor=white)
@@ -24,6 +20,10 @@
 ![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
 ![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)
+
+![FormSync Demo](https://github.com/user-attachments/assets/bc21e9bf-50f2-400d-940c-6238c0c06878)
+
+## 🎯 [**→ View Live Demo**](https://formsync-demo.vercel.app) | [**→ API Documentation**](https://documenter.getpostman.com/view/your-collection)
 
 ---
 
