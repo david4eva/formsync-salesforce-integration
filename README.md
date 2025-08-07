@@ -6,6 +6,25 @@
 
 ## 🎯 [**→ View Live Demo**](https://formsync-demo.vercel.app) | [**→ API Documentation**](https://documenter.getpostman.com/view/your-collection)
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Salesforce API](https://img.shields.io/badge/Salesforce%20API-v58.0-00A1E0.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg?logo=typescript&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-Salesforce-00A1E0.svg)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?logo=openai&logoColor=white)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![GitHub Stars](https://img.shields.io/github/stars/yourusername/formsync?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/yourusername/formsync?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/yourusername/formsync)
+![GitHub PR](https://img.shields.io/github/issues-pr/yourusername/formsync)
+
+![Demo Status](https://img.shields.io/badge/demo-live-success.svg)
+![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
+![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg)
+
 ---
 
 ## 💰 **The Problem It Solves**
