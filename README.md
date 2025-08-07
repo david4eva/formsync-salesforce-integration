@@ -10,9 +10,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-enabled-4285F4.svg?logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?logo=openai&logoColor=white)](https://platform.openai.com/docs/api-reference/completions)
-[![FormSync Video Demo](https://img.shields.io/badge/Demo-FormSync-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1hS4NEfdhMQf_Qg8Nv0flOifw8pKcjb7q/view?usp=sharing)
-
 </div>
+
+[![FormSync Video Demo](https://img.shields.io/badge/Demo-FormSync-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1hS4NEfdhMQf_Qg8Nv0flOifw8pKcjb7q/view?usp=sharing)
 
 <img width="1920" height="1080" alt="FormSync Project (1)" src="https://github.com/user-attachments/assets/8749146c-de9a-4955-962f-094d4fe435df" />
 
