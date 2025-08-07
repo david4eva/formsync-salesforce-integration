@@ -12,11 +12,9 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?logo=openai&logoColor=white)](https://platform.openai.com/docs/api-reference/completions)
 </div>
 
-[![FormSync Video Demo](https://img.shields.io/badge/Demo-FormSync-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1hS4NEfdhMQf_Qg8Nv0flOifw8pKcjb7q/view?usp=sharing)
-
 <img width="1920" height="1080" alt="FormSync Project (1)" src="https://github.com/user-attachments/assets/8749146c-de9a-4955-962f-094d4fe435df" />
 
-## 🎯 [**→ View Live Demo**](https://formsync-demo.vercel.app) | [**→ API Documentation**](https://documenter.getpostman.com/view/your-collection)
+## 🎯 [![FormSync Video Demo](https://img.shields.io/badge/Demo-FormSync-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1hS4NEfdhMQf_Qg8Nv0flOifw8pKcjb7q/view?usp=sharing)
 
 ---
 
