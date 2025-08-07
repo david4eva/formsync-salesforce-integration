@@ -3,8 +3,7 @@
 <!-- Real, Functional Shields.io Badges -->
 <div align="center">
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Salesforce API](https://img.shields.io/badge/Salesforce%20API-v58.0-00A1E0.svg?logo=salesforce&logoColor=white)
+![Salesforce API](https://img.shields.io/badge/Salesforce%20API-v58.0-00A1E0.svg?logo=salesforce&logoColor=white)(https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_rest.htm)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6.svg?logo=typescript&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-enabled-4285F4.svg?logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?logo=openai&logoColor=white)
