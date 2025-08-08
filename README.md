@@ -195,15 +195,6 @@ We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md)
 
 ---
 
-## 📞 **Support & Contact**
-
-- 📧 **Email**: [david.elias@example.com](mailto:david.elias@example.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/davidselias)
-- 🐛 **Issues**: [Report bugs or request features](https://github.com/davidselias/formsync/issues)
-- 📚 **Documentation**: [View full documentation](https://formsync-docs.netlify.app)
-
----
-
 ## ⚖️ **Why Not MuleSoft?**
 
 MuleSoft handles complex API integrations gracefully but is often **cost-prohibitive for smaller organizations**. FormSync offers a **zero-cost alternative** using native Salesforce capabilities and Google integrations.
